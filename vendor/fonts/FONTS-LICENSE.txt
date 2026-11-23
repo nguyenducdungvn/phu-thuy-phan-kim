@@ -1,0 +1,9 @@
+Font chữ đi kèm (đã cắt gọn bộ ký tự Latin + tiếng Việt, định dạng woff2):
+
+- Be Vietnam Pro — Copyright 2021 The Be Vietnam Pro Project Authors
+  (https://github.com/bettergui/BeVietnamPro)
+- Playfair Display — Copyright 2017 The Playfair Display Project Authors
+  (https://github.com/clauseggers/Playfair-Display)
+
+Cả hai được phát hành theo SIL Open Font License, Version 1.1:
+https://openfontlicense.org/open-font-license-official-text/

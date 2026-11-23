@@ -1,0 +1,4 @@
+Đặt ảnh mã QR chuyển khoản của bạn vào thư mục này, đặt tên qr.png
+(lấy từ app ngân hàng: mục "Mã QR nhận tiền" → Lưu ảnh), rồi trong app.config.js điền:
+    donate: { qrImage: 'assets/donate/qr.png', bankName: '...', accountNo: '...', accountName: '...' }
+Sau đó chạy: python tools/build-sw.py
