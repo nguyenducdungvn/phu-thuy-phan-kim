@@ -17,8 +17,8 @@ window.APP_CONFIG = {
 
   /* Địa chỉ chính thức của app trên GitHub Pages — dùng cho nút chia sẻ và mã QR.
      Để trống: khi chạy trên GitHub Pages app tự lấy đúng địa chỉ đang mở.
-     Nên điền sau khi xuất bản, vd: 'https://nguyenducdungvn.github.io/phu-thuy-phan-kim/' */
-  siteUrl: 'https://nguyenducdungvn.github.io/phu-thuy-phan-kim/',
+     Nên điền sau khi xuất bản, vd: 'https://phankim.hlvsuckhoe.com/' */
+  siteUrl: 'https://phankim.hlvsuckhoe.com/',
 
   /* Nơi người chơi gửi kết quả / khó khăn khi làm thực tế (Facebook, Zalo, Google Form, email…).
      Để trống thì dùng repoUrl + '/issues'. */

@@ -30,7 +30,7 @@ Trò chơi giáo dục tiếng Việt: người chơi nhập vai **phù thủy**
 
 1. Tạo repository (ví dụ `phu-thuy-phan-kim`), tải **toàn bộ nội dung thư mục này** lên (kéo thả qua *Add file → Upload files*, hoặc dùng git).
 2. **Settings → Pages → Source: Deploy from a branch → `main` / `(root)` → Save.**
-3. Sau vài phút: `https://nguyenducdungvn.github.io/phu-thuy-phan-kim/`.
+3. Sau vài phút: `https://nguyenducdungvn.github.io/phu-thuy-phan-kim/`. Bản chính thức chạy ở tên miền riêng **https://phankim.hlvsuckhoe.com/** (tệp `CNAME`; bản ghi CNAME `phankim` trên Cloudflare trỏ về `nguyenducdungvn.github.io`; link github.io tự chuyển về).
 4. Mở `app.config.js`, điền:
    - `siteUrl`: link ở bước 3 (cho mã QR và nút chia sẻ),
    - `feedbackUrl`: Facebook / Zalo / Google Form để người chơi gửi kết quả thực tế,

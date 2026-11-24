@@ -1,7 +1,8 @@
 /* Service worker — TỰ SINH bởi tools/build-sw.py, đừng sửa tay */
-const CACHE = 'hocvien-2.1.2-202611230941';
+const CACHE = 'hocvien-2.1.2-202611240811';
 const FILES = [
  "./",
+ "CNAME",
  "LICENSE",
  "app.config.js",
  "index.html",
